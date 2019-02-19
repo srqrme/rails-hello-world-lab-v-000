@@ -1,6 +1,6 @@
 class StaticController < ApplicationController
   
-  def about
+  def hello_world
   end
   
 end
